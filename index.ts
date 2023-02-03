@@ -6,7 +6,10 @@ interface Person {
 
 class classA implements Person { 
    foo: string;
-   bar: number
+   bar: number;
+   name: string;
+   age: number;
+   profession: string;      
 }
 
 class classC {
