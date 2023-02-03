@@ -3,3 +3,8 @@ interface Person {
     age: number;
     profession: string;
 }
+
+class classA implements Person { 
+   foo: string;
+   bar: number
+}
