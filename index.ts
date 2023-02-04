@@ -10,6 +10,7 @@ class classA implements Person {
    name: string;
    age: number;
    profession: string;   
+   lorem: string
 }
 
 class classB {
